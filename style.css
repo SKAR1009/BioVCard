@@ -20,3 +20,5 @@ color: white;
 }
 html {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSx_zqb__n4bqlSRPCHwoaqcsk3f4HXhkiQ&usqp=CAU);}
 a{text-decoration: none; color: white;}
+html {"force:true";}
+
