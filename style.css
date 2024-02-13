@@ -1,0 +1,22 @@
+body {
+    font-size: medium; text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+    }
+  
+h1 {color: red;}
+
+em {color: red;}
+
+p {font: arial;color:white;}
+
+.profilePic {width: 60%;
+  }
+.btn {display: block;
+color: white;
+  padding: 30px;
+  background:red;
+  margin: 16px;
+  box-shadow: 5px 7px #888888;
+}
+html {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvSx_zqb__n4bqlSRPCHwoaqcsk3f4HXhkiQ&usqp=CAU);}
+a{text-decoration: none; color: white;}
